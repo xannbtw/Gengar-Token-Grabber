@@ -1,5 +1,5 @@
 <p align='center'>
-  # Discord Nitro Generator + checker
+  <h1>Discord Nitro Generator + checker</h1>
   <b>✨ Follow me here ✨</b><br>  
   <a href="https://discord.gg/hvEDPxgTDz">Discord</a> |
   <a href="https://www.instagram.com/47tomvvs">Instagram</a> |
