@@ -1,4 +1,4 @@
-<h1>Gengar Token Grabber</h1>
+<h1 align='center'>Gengar Token Grabber</h1>
 <p align='center'>
   <b>✨ Follow me here ✨</b><br>  
   <a href="https://discord.gg/hvEDPxgTDz">Discord</a> |
